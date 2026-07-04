@@ -78,34 +78,71 @@ Mission       : Building intelligent software that turns ideas into real-world i
 </table>
 
 ---
+## 🧬 Builder Architecture
 
-## 🧠 My Operating System
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=2400&pause=700&color=F77247&center=true&vCenter=true&width=850&lines=Product-minded+engineering.;AI-powered+systems.;Developer-first+ecosystems.;Code+that+connects+ideas+to+impact." alt="Builder Architecture Typing" />
+</p>
 
 <table>
   <tr>
-    <td align="center" width="25%">
-      <img src="https://img.icons8.com/fluency/96/source-code.png" width="62" alt="Engineer"/>
-      <h3>Engineer</h3>
-      <p>Full-stack apps, APIs, dashboards, auth systems, and production-ready modules.</p>
+    <td width="50%" valign="top">
+      <h3>⚙️ Product Engineering</h3>
+      <p>
+        Building scalable full-stack products with clean UI, secure authentication,
+        dashboards, APIs, and production-ready feature modules.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+      </p>
     </td>
-    <td align="center" width="25%">
-      <img src="https://img.icons8.com/fluency/96/artificial-intelligence.png" width="62" alt="AI"/>
-      <h3>AI Builder</h3>
-      <p>AI-powered platforms, agents, ML systems, automation, and context-aware workflows.</p>
+
+  <td width="50%" valign="top">
+      <h3>🧠 AI Systems</h3>
+      <p>
+        Exploring AI-powered platforms, agentic workflows, MCP-style routing,
+        context handling, automation, and decision-intelligence systems.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/AI%20Agents-7C3AED?style=flat-square" />
+        <img src="https://img.shields.io/badge/MCP%20Routing-00C2FF?style=flat-square" />
+        <img src="https://img.shields.io/badge/LLM%20Workflows-F77247?style=flat-square" />
+        <img src="https://img.shields.io/badge/Automation-111827?style=flat-square" />
+      </p>
     </td>
-    <td align="center" width="25%">
-      <img src="https://img.icons8.com/fluency/96/combo-chart.png" width="62" alt="Product"/>
-      <h3>Product Thinker</h3>
-      <p>Requirement analysis, decision reports, user journeys, and execution-focused planning.</p>
+  </tr>
+
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚀 Research Direction</h3>
+      <p>
+        Working around Product Intelligence, DevOps Intelligence, repository understanding,
+        architecture review, risk analysis, and explainable engineering reports.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Product%20Intelligence-7C3AED?style=flat-square" />
+        <img src="https://img.shields.io/badge/DevOps%20Intelligence-00C2FF?style=flat-square" />
+        <img src="https://img.shields.io/badge/Explainable%20Reports-F77247?style=flat-square" />
+      </p>
     </td>
-    <td align="center" width="25%">
-      <img src="https://img.icons8.com/fluency/96/conference-call.png" width="62" alt="Community"/>
-      <h3>Community Founder</h3>
-      <p>Building Idevion as a developer-first ecosystem for mentorship and verified growth.</p>
+
+  <td width="50%" valign="top">
+      <h3>🌐 Ecosystem Building</h3>
+      <p>
+        Growing Idevion as a developer-first ecosystem focused on guided growth,
+        verified opportunities, mentorship, hackathons, and real-world exposure.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Founder-Idevion-F77247?style=flat-square" />
+        <img src="https://img.shields.io/badge/Community-5K%2B%20Developers-00C853?style=flat-square" />
+        <img src="https://img.shields.io/badge/Developer%20Growth-111827?style=flat-square" />
+      </p>
     </td>
   </tr>
 </table>
-
 ---
 
 ## 🧪 Project Universe
