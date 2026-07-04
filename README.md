@@ -268,77 +268,68 @@ Mission       : Building intelligent software that turns ideas into real-world i
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;weight=600&amp;size=18&amp;duration=2400&amp;pause=700&amp;color=F77247&amp;center=true&amp;vCenter=true&amp;width=850&amp;lines=Tools+I+use+to+turn+ideas+into+products.;Full-stack+systems+%E2%80%A2+AI+workflows+%E2%80%A2+Automation+%E2%80%A2+Cloud-ready+builds." 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;weight=600&amp;size=18&amp;duration=2400&amp;pause=700&amp;color=F77247&amp;center=true&amp;vCenter=true&amp;width=900&amp;lines=My+stack+for+building+products%2C+AI+systems+and+automation.;Full-stack+engineering+%E2%80%A2+AI+workflows+%E2%80%A2+Cloud-ready+builds." 
     alt="Tech Command Center Typing" 
   />
 </p>
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3>🎨 Frontend Engineering</h3>
-      <p>
-        Building clean, responsive, and user-focused interfaces with modern frontend stacks.
-      </p>
+    <td width="33%" valign="top" align="center">
+      <h3>🎨 Frontend</h3>
       <p>
         <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" alt="Frontend Stack" />
       </p>
+      <p>HTML5 • CSS3 • JavaScript • TypeScript • React.js • Next.js • Tailwind • Bootstrap</p>
     </td>
 
-   <td width="50%" valign="top">
-      <h3>⚙️ Backend &amp; Programming</h3>
+   <td width="33%" valign="top" align="center">
+      <h3>⚙️ Backend &amp; APIs</h3>
       <p>
-        Creating APIs, backend logic, automation scripts, and scalable application modules.
+        <img src="https://skillicons.dev/icons?i=nodejs,express,spring,php" alt="Backend Stack" />
       </p>
+      <p>Node.js • Express.js • Spring Boot • PHP • REST APIs • Authentication</p>
+    </td>
+
+   <td width="33%" valign="top" align="center">
+      <h3>💻 Programming</h3>
       <p>
-        <img src="https://skillicons.dev/icons?i=nodejs,express,python,java,spring,php" alt="Backend Stack" />
+        <img src="https://skillicons.dev/icons?i=python,java,js,ts" alt="Programming Languages" />
       </p>
+      <p>Python • Java • JavaScript • TypeScript • SQL • DSA • OOP</p>
     </td>
   </tr>
 
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top" align="center">
+      <h3>🗄️ Databases &amp; Auth</h3>
+      <p>
+        <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,firebase,supabase" alt="Database Auth Stack" />
+      </p>
+      <p>MongoDB • PostgreSQL • MySQL • Firebase • Supabase</p>
+    </td>
+
+   <td width="33%" valign="top" align="center">
       <h3>🧠 AI / ML &amp; Data</h3>
       <p>
-        Working with machine learning, AI-powered applications, data processing, and intelligent workflows.
+        <img src="https://skillicons.dev/icons?i=python,sklearn,opencv" alt="AI ML Stack" />
       </p>
+      <p>Scikit-learn • Streamlit • OpenCV • Pandas • NumPy • LLM Workflows</p>
       <p>
-        <img src="https://skillicons.dev/icons?i=python,sklearn,opencv,tensorflow" alt="AI ML Stack" />
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/LLM%20Workflows-7C3AED?style=flat-square" />
-        <img src="https://img.shields.io/badge/AI%20Agents-00C2FF?style=flat-square" />
-        <img src="https://img.shields.io/badge/MCP%20Routing-F77247?style=flat-square" />
+        <img src="https://img.shields.io/badge/AI%20Agents-7C3AED?style=flat-square" />
+        <img src="https://img.shields.io/badge/MCP%20Routing-00C2FF?style=flat-square" />
       </p>
     </td>
 
-   <td width="50%" valign="top">
-      <h3>🗄️ Database, Cloud &amp; Tools</h3>
+   <td width="33%" valign="top" align="center">
+      <h3>🚀 DevOps &amp; Tools</h3>
       <p>
-        Managing authentication, databases, deployments, version control, and developer workflows.
+        <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,linux,vercel,netlify,vscode,figma" alt="DevOps Tools Stack" />
       </p>
-      <p>
-        <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,firebase,supabase,git,github,gitlab,docker,vercel,netlify,linux,vscode,figma" alt="Database Tools Stack" />
-      </p>
+      <p>Git • GitHub • GitLab • Docker • Linux • Vercel • Netlify • VS Code • Figma</p>
     </td>
   </tr>
 </table>
-
-<details>
-  <summary><b>🧩 View full stack map</b></summary>
-  <br/>
-
-      ```txt
-      Frontend        : HTML5, CSS3, JavaScript, TypeScript Basic, React.js, Next.js, Tailwind CSS, Bootstrap
-      Backend         : Node.js, Express.js, Python, Java, Spring Boot, PHP Basic
-      Databases/Auth  : MongoDB, PostgreSQL, Firebase, Supabase, MySQL
-      AI/ML           : Python, Scikit-learn, OpenCV, Streamlit, AI-powered apps, LLM workflows
-      DevOps/Tools    : Git, GitHub, GitLab, Docker, Linux, Vercel, Netlify, VS Code, Figma
-      CS Core         : DSA, OOP, DBMS, Operating Systems, Computer Networks
-      ---
-      
-      
-  </details>
 
 ---
 
