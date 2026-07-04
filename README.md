@@ -20,7 +20,7 @@
 
 <!-- Primary Links -->
 <p align="center">
-  <a href="https://sauryakapoorportfolio.vercel.app/">
+  <a href="https://saurykapoorportfolio.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/saurya-kapoor">
@@ -29,16 +29,19 @@
   <a href="mailto:sauryakapoor1@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/sauryakapoor15">
+  <a href="https://github.com/sauryakapoor">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
 <!-- Mini Metrics -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sauryakapoor15&label=Profile%20Views&color=F77247&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/sauryakapoor15?label=Followers&style=flat-square&logo=github" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/sauryakapoor15?label=Stars&style=flat-square&logo=github" alt="Stars" />
+  <a href="https://github.com/sponsors/sauryakapoor15" target="_blank">
+  <img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86" alt="Sponsor Badge"/>
+</a>
+  <img src="https://komarev.com/ghpvc/?username=sauryakapoor&label=Profile%20Views&color=F77247&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/sauryakapoor?label=Followers&style=flat-square&logo=github" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/sauryakapoor?label=Stars&style=flat-square&logo=github" alt="Stars" />
   <img src="https://img.shields.io/badge/Focus-AI%20Agents%20%7C%20Full--Stack%20%7C%20Decision%20Intelligence-7C3AED?style=flat-square" alt="Focus" />
 </p>
 
