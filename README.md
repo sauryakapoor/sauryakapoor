@@ -333,22 +333,70 @@ Mission       : Building intelligent software that turns ideas into real-world i
 
 ---
 
-## 🏆 Achievement Board
+## 🏆 Impact Log
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SIH%202025-Internal%20Winner-F77247?style=for-the-badge" alt="SIH" />
-  <img src="https://img.shields.io/badge/Founder-Idevion-7C3AED?style=for-the-badge" alt="Founder Idevion" />
-  <img src="https://img.shields.io/badge/Community-5K%2B%20Developers-00C2FF?style=for-the-badge" alt="Community" />
-  <img src="https://img.shields.io/badge/Role-Software%20Engineering%20Intern-00C853?style=for-the-badge" alt="Intern" />
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;weight=600&amp;size=18&amp;duration=2400&amp;pause=700&amp;color=F77247&amp;center=true&amp;vCenter=true&amp;width=850&amp;lines=Proof+that+I+build%2C+lead%2C+ship%2C+and+grow.;Engineering+experience+%E2%80%A2+Hackathon+wins+%E2%80%A2+Community+impact." 
+    alt="Impact Log Typing" 
+  />
 </p>
 
-- 🏆 **Smart India Hackathon 2025 — Internal Winner**
-- 👨‍💼 **Founder & Community Lead — Idevion**
-- 🌐 Scaled a **5K+ developer-first ecosystem**
-- 💼 **Software Engineering Intern — MangosOrange Services Pvt. Ltd.**
-- 🚀 **Marketing Lead — TechEraa & Tech4Hack Communities**
-- 🥇 **Exceptional Winner — Aavishkar 3.0**
-- 🧩 Built across **AI, full-stack development, automation, bots, e-commerce, ML, and student platforms**
+<table>
+  <tr>
+    <td width="20%" align="center">
+      <h2>💼</h2>
+      <b>Engineering</b>
+    </td>
+    <td width="80%">
+      <b>Software Engineering Intern — MangosOrange Services Pvt. Ltd.</b><br/>
+      <sub>Working on scalable web applications, authentication flows, UI/UX modules, testing, documentation, and production-ready features.</sub>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="20%" align="center">
+      <h2>🌐</h2>
+      <b>Founder</b>
+    </td>
+    <td width="80%">
+      <b>Founder &amp; Community Lead — Idevion</b><br/>
+      <sub>Built a 5K+ developer-first ecosystem focused on guided growth, verified opportunities, mentorship, hackathons, and real-world exposure.</sub>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="20%" align="center">
+      <h2>🏆</h2>
+      <b>Winner</b>
+    </td>
+    <td width="80%">
+      <b>Smart India Hackathon 2025 — Internal Winner</b><br/>
+      <sub>Built Margdarshan Kendra, an AI-powered smart education and career guidance platform.</sub>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="20%" align="center">
+      <h2>🚀</h2>
+      <b>Leadership</b>
+    </td>
+    <td width="80%">
+      <b>Marketing Lead — TechEraa &amp; Tech4Hack</b><br/>
+      <sub>Contributed to developer events, outreach, community growth, collaborations, and technical program visibility.</sub>
+    </td>
+  </tr>
+</table>
+
+<details>
+  <summary><b>📌 More Signals</b></summary>
+  <br/>
+
+  - 🥇 Exceptional Winner — Aavishkar 3.0  
+  - 🧩 Built across AI, full-stack development, automation, bots, ML, e-commerce, and student platforms  
+  - 🌱 Growing through internships, hackathons, community leadership, and research-driven product building  
+
+</details>
 
 ---
 
