@@ -1,9 +1,3 @@
-<!--
-  README.md — Saurya Kapoor GitHub Profile
-  Version: Founder + Research + Creative 10/10
-  Repo: sauryakapoor15/sauryakapoor15
--->
-
 <!-- Animated Hero Banner -->
 <p align="center">
   <img 
@@ -420,17 +414,17 @@ AI Products
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sauryakapoor15&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="175" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sauryakapoor15&theme=tokyonight&hide_border=true" height="175" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sauryakapoor&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="175" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sauryakapoor&theme=tokyonight&hide_border=true" height="175" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sauryakapoor15&theme=tokyonight&hide_border=true&layout=compact" height="175" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sauryakapoor&theme=tokyonight&hide_border=true&layout=compact" height="175" alt="Top Languages" />
   <img src="https://github-profile-trophy.vercel.app/?username=sauryakapoor15&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=2&column=3" height="175" alt="GitHub Trophies" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sauryakapoor15&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sauryakapoor&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Activity Graph" />
 </p>
 
 ---
@@ -438,7 +432,7 @@ AI Products
 ## 🐍 Contribution Flow
 
 <p align="center">
-  <img src="https://github.com/sauryakapoor15/sauryakapoor15/blob/output/github-snake-dark.svg" alt="snake animation" />
+  <img src="https://github.com/sauryakapoor/sauryakapoor/blob/output/github-snake-dark.svg" alt="snake animation" />
 </p>
 
 ---
@@ -446,7 +440,7 @@ AI Products
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://sauryakapoorportfolio.vercel.app/">
+  <a href="https://saurykapoorportfolio.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-FF5722?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/saurya-kapoor">
