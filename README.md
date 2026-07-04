@@ -78,6 +78,16 @@ Mission       : Building intelligent software that turns ideas into real-world i
 </table>
 
 ---
+
+## 🙋‍♂️ Visitor Count
+<div align="center">
+  
+  ![Counter](https://count.getloli.com/get/@sauryakapoor?theme=rule34)
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="1002" height="18"> </h1>
+
+---
 ## 🧬 Builder Architecture
 
 <p align="center">
