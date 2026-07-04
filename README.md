@@ -264,41 +264,81 @@ Mission       : Building intelligent software that turns ideas into real-world i
 
 ---
 
-## 🛠️ Tech Arsenal
+## 🛠️ Tech Command Center
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,nodejs,express,python,java,spring,php,mongodb,postgresql,mysql,firebase,supabase,git,github,gitlab,docker,vercel,netlify,linux,vscode,figma,opencv" alt="Tech Stack" />
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;weight=600&amp;size=18&amp;duration=2400&amp;pause=700&amp;color=F77247&amp;center=true&amp;vCenter=true&amp;width=850&amp;lines=Tools+I+use+to+turn+ideas+into+products.;Full-stack+systems+%E2%80%A2+AI+workflows+%E2%80%A2+Automation+%E2%80%A2+Cloud-ready+builds." 
+    alt="Tech Command Center Typing" 
+  />
 </p>
 
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎨 Frontend Engineering</h3>
+      <p>
+        Building clean, responsive, and user-focused interfaces with modern frontend stacks.
+      </p>
+      <p>
+        <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" alt="Frontend Stack" />
+      </p>
+    </td>
+
+   <td width="50%" valign="top">
+      <h3>⚙️ Backend &amp; Programming</h3>
+      <p>
+        Creating APIs, backend logic, automation scripts, and scalable application modules.
+      </p>
+      <p>
+        <img src="https://skillicons.dev/icons?i=nodejs,express,python,java,spring,php" alt="Backend Stack" />
+      </p>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧠 AI / ML &amp; Data</h3>
+      <p>
+        Working with machine learning, AI-powered applications, data processing, and intelligent workflows.
+      </p>
+      <p>
+        <img src="https://skillicons.dev/icons?i=python,sklearn,opencv,tensorflow" alt="AI ML Stack" />
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/LLM%20Workflows-7C3AED?style=flat-square" />
+        <img src="https://img.shields.io/badge/AI%20Agents-00C2FF?style=flat-square" />
+        <img src="https://img.shields.io/badge/MCP%20Routing-F77247?style=flat-square" />
+      </p>
+    </td>
+
+   <td width="50%" valign="top">
+      <h3>🗄️ Database, Cloud &amp; Tools</h3>
+      <p>
+        Managing authentication, databases, deployments, version control, and developer workflows.
+      </p>
+      <p>
+        <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,firebase,supabase,git,github,gitlab,docker,vercel,netlify,linux,vscode,figma" alt="Database Tools Stack" />
+      </p>
+    </td>
+  </tr>
+</table>
+
 <details>
-  <summary><b>⚙️ Expand my stack map</b></summary>
+  <summary><b>🧩 View full stack map</b></summary>
+  <br/>
 
-```txt
-Frontend        : HTML5, CSS3, JavaScript, TypeScript Basic, React.js, Next.js, Tailwind CSS, Bootstrap
-Backend         : Node.js, Express.js, Python, Java, Spring Boot, PHP Basic
-Databases/Auth  : MongoDB, PostgreSQL, Firebase, Supabase, MySQL
-AI/ML           : Python, Scikit-learn, OpenCV, Streamlit, AI-powered apps, LLM workflows
-DevOps/Tools    : Git, GitHub, GitLab, Docker, Linux, Vercel, Netlify, VS Code, Figma
-CS Core         : DSA, OOP, DBMS, OS, CN
-```
-
-</details>
-
----
-
-## 📡 Engineering Radar
-
-```txt
-Full-Stack Development        █████████░  90%
-Frontend Engineering          █████████░  90%
-Backend APIs                  ████████░░  80%
-AI-Powered Applications       ████████░░  80%
-Agentic / MCP Systems         ███████░░░  70%
-Databases & Auth              ████████░░  80%
-Automation Systems            ████████░░  80%
-Product Thinking              █████████░  90%
-Community Building            ██████████ 100%
-```
+      ```txt
+      Frontend        : HTML5, CSS3, JavaScript, TypeScript Basic, React.js, Next.js, Tailwind CSS, Bootstrap
+      Backend         : Node.js, Express.js, Python, Java, Spring Boot, PHP Basic
+      Databases/Auth  : MongoDB, PostgreSQL, Firebase, Supabase, MySQL
+      AI/ML           : Python, Scikit-learn, OpenCV, Streamlit, AI-powered apps, LLM workflows
+      DevOps/Tools    : Git, GitHub, GitLab, Docker, Linux, Vercel, Netlify, VS Code, Figma
+      CS Core         : DSA, OOP, DBMS, Operating Systems, Computer Networks
+      ---
+      
+      
+  </details>
 
 ---
 
