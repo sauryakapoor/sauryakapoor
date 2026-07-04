@@ -155,83 +155,112 @@ Mission       : Building intelligent software that turns ideas into real-world i
 </table>
 ---
 
-## 🧪 Project Universe
+## 🧪 Proof of Work
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=19&duration=2600&pause=800&color=F77247&center=true&vCenter=true&width=900&lines=Projects+that+show+learning+%2B+execution+%2B+impact.;From+student+platforms+to+AI+systems+to+developer+communities." alt="Project Universe Typing" />
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;weight=600&amp;size=18&amp;duration=2500&amp;pause=700&amp;color=F77247&amp;center=true&amp;vCenter=true&amp;width=900&amp;lines=Selected+builds+that+prove+execution+%2B+research+%2B+impact.;AI+systems+%E2%80%A2+ML+dashboards+%E2%80%A2+Smart+education+%E2%80%A2+Automation." 
+    alt="Proof of Work Typing" 
+  />
 </p>
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🧠 Margdarshan Kendra</h3>
-      <p><b>AI Career Guidance & Smart Student Hub</b></p>
+      <h3>⚙️ SYNASE AI</h3>
+      <p><b>AI Product + DevOps Decision Intelligence Platform</b></p>
       <p>
-        SIH 2025 internal-winning smart education platform combining career guidance, student dashboards,
-        aptitude-based recommendations, digital portfolios, multilingual chatbot support, scholarship alerts,
-        faculty/admin workflows, and mentor-alumni connect.
+        Building an AI engineering platform around product intelligence, DevOps intelligence,
+        MCP-style routing, shared context, AI agents, repository understanding, and explainable reports.
       </p>
-      <p><b>Stack:</b> React.js, Node.js, Supabase, Firebase, MongoDB, Tailwind CSS, Python</p>
+      <p>
+        <img src="https://img.shields.io/badge/AI%20Agents-7C3AED?style=flat-square" />
+        <img src="https://img.shields.io/badge/MCP%20Routing-00C2FF?style=flat-square" />
+        <img src="https://img.shields.io/badge/DevOps%20Intelligence-F77247?style=flat-square" />
+        <img src="https://img.shields.io/badge/Decision%20Reports-111827?style=flat-square" />
+      </p>
+      <img src="https://img.shields.io/badge/Status-Research%20%2B%20Build%20Mode-7C3AED?style=for-the-badge" alt="Research Build Mode" />
+    </td>
+
+   <td width="50%" valign="top">
+      <h3>📊 Customer Churn Prediction</h3>
+      <p><b>ML System · Business Intelligence Dashboard</b></p>
+      <p>
+        Built a churn prediction system with preprocessing, model comparison,
+        real-time prediction, batch prediction, and business-focused visualization dashboards.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" />
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&amp;logo=streamlit&amp;logoColor=white" />
+        <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&amp;logo=scikitlearn&amp;logoColor=white" />
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&amp;logo=pandas&amp;logoColor=white" />
+      </p>
+      <img src="https://img.shields.io/badge/Models-LR%20%7C%20RF%20%7C%20GB%20%7C%20SVM-111827?style=for-the-badge" alt="Models" />
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧠 Margdarshan Kendra</h3>
+      <p><b>SIH’25 Internal Winner · AI Career Guidance Platform</b></p>
+      <p>
+        Smart education platform for career mapping, aptitude-based recommendations,
+        student dashboards, digital portfolios, multilingual support, and mentor-alumni connect.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/React.js-20232A?style=flat-square&amp;logo=react&amp;logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&amp;logo=nodedotjs&amp;logoColor=white" />
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&amp;logo=supabase&amp;logoColor=white" />
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&amp;logo=firebase&amp;logoColor=black" />
+      </p>
       <a href="https://margdarshankendra.vercel.app/">
-        <img src="https://img.shields.io/badge/Live-Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
+        <img src="https://img.shields.io/badge/Live-Demo-00C853?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Live Demo" />
       </a>
     </td>
-    <td width="50%" valign="top">
-      <h3>⚙️ SYNASE AI</h3>
-      <p><b>Product + DevOps Decision Intelligence</b></p>
-      <p>
-        Final-year AI engineering platform connecting product planning with engineering execution using
-        MCP-style routing, shared context, AI agents, validation chambers, repository understanding,
-        architecture review, risk analysis, and decision reports.
-      </p>
-      <p><b>Stack:</b> React.js, Spring Boot, FastAPI, PostgreSQL, ChromaDB, Neo4j, Docker, AWS, LLMs</p>
-      <img src="https://img.shields.io/badge/Status-Research%20%2B%20Build%20Mode-7C3AED?style=for-the-badge" alt="Status" />
-    </td>
-  </tr>
 
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📊 Customer Churn Prediction</h3>
-      <p><b>ML + Business Intelligence System</b></p>
-      <p>
-        Predicts at-risk customers using historical and behavioral data with preprocessing pipelines,
-        model comparison, real-time prediction, batch prediction, and visualization dashboards.
-      </p>
-      <p><b>Models:</b> Logistic Regression, Random Forest, Gradient Boosting, SVM</p>
-      <p><b>Stack:</b> Python, Streamlit, Pandas, NumPy, Scikit-learn, Matplotlib</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🛒 Sukun Store</h3>
-      <p><b>Student-Focused E-Commerce Platform</b></p>
-      <p>
-        Marketplace for affordable academic resources, second-hand books, notes, electronics,
-        exam resources, and the “Exam Tackle Time” section for low-cost preparation materials.
-      </p>
-      <p><b>Stack:</b> HTML5, CSS3, Tailwind CSS, JavaScript, Firebase, Python</p>
-    </td>
-  </tr>
-
-  <tr>
-    <td width="50%" valign="top">
+   <td width="50%" valign="top">
       <h3>🤖 Telegram Bot Suite</h3>
-      <p><b>Automation + Community Bots</b></p>
+      <p><b>Automation · Community Tools · Bot Systems</b></p>
       <p>
-        Built management bots, music bots, broadcast bots, monitoring bots, uptime checkers,
-        and string session generators with modular architecture and MongoDB integration.
+        Built modular bots for group management, music, broadcasting, monitoring,
+        uptime checks, and string session generation with database-backed workflows.
       </p>
-      <p><b>Stack:</b> Python, Telegram Bot API, MongoDB, PyMongo</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🌐 Idevion</h3>
-      <p><b>Developer-First Growth Ecosystem</b></p>
       <p>
-        Founder-led developer community focused on guided growth, verified opportunities,
-        mentorship, hackathons, domain-based learning, networking, and real-world technical exposure.
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" />
+        <img src="https://img.shields.io/badge/Telegram%20API-2CA5E0?style=flat-square&amp;logo=telegram&amp;logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&amp;logo=mongodb&amp;logoColor=white" />
+        <img src="https://img.shields.io/badge/Automation-111827?style=flat-square" />
       </p>
-      <p><b>Impact:</b> 5K+ community • events • hackathons • opportunities • mentorship</p>
+      <img src="https://img.shields.io/badge/Origin-Early%20Builder%20Journey-F77247?style=for-the-badge" alt="Early Builder Journey" />
     </td>
   </tr>
 </table>
+
+<details>
+  <summary><b>📦 More Builds & Ecosystem Work</b></summary>
+  <br/>
+
+  <p>
+    <b>🛒 Sukun Store:</b> Student-focused e-commerce platform for affordable academic resources,
+    second-hand books, notes, electronics, and exam preparation materials.
+  </p>
+
+  <p>
+    <b>🌐 Idevion:</b> Developer-first community ecosystem focused on guided growth,
+    verified opportunities, mentorship, hackathons, events, and real-world technical exposure.
+  </p>
+
+  <p>
+    <b>🧩 Other Builds:</b> QR tools, student platforms, frontend experiments, portfolio systems,
+    automation utilities, and learning-focused full-stack projects.
+  </p>
+</details>
+
+<p align="center">
+  <a href="https://github.com/sauryakapoor15?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore%20More%20Projects-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore More Projects" />
+  </a>
+</p>
 
 ---
 
