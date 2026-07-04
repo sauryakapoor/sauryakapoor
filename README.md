@@ -52,19 +52,21 @@
   <tr>
     <td width="58%" valign="top">
 
-## 🧭 Founder-Level Snapshot
+## 🧭 Developer Snapshot
 
 ```txt
-Name        : Saurya Kapoor
-Role        : Software Engineering Intern
-Builder DNA : Full-Stack + AI + Product + Community
-Current Lab : AI Agents • MCP Systems • Product Intelligence • DevOps Intelligence
-Community   : Founder @ Idevion — 5K+ developer ecosystem
-Achievement : Smart India Hackathon 2025 Internal Winner
-Mission     : Build intelligent software that turns ideas into impact.
+Name          : Saurya Kapoor
+Current Role  : Software Engineering Intern
+Core Identity : Full-Stack AI Developer • Product-Minded Engineer • Community Founder
+Research Lab  : AI Agents • MCP Orchestration • Product + DevOps Decision Intelligence
+Building      : Scalable Products • Agentic Systems • Developer-First Ecosystems
+Community     : Founder, Idevion — 5K+ developers connected through guided growth
+Highlight     : Smart India Hackathon 2025 Internal Winner
+Mission       : Building intelligent software that turns ideas into real-world impact.
 ```
+-  **Like My Work ?** -  just buy me a coffee here  --->       <a href="https://www.buymeacoffee.com/sauryakapoor15" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="20px" width="auto" ></a>
 
-> I build at the intersection of **software engineering, AI systems, product thinking, and developer ecosystems**.
+<!-- > I build at the intersection of **software engineering, AI systems, product thinking, and developer ecosystems**. --> 
 
 </td>
 <td width="42%" align="center" valign="middle">
