@@ -82,6 +82,7 @@ Mission       : Building intelligent software that turns ideas into real-world i
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="1002" height="18"> </h1>
 
 ---
+
 ## 🧬 Builder Architecture
 
 <p align="center">
@@ -429,13 +430,11 @@ AI Products
 
 ---
 
-## 🐍 Contribution Flow
+<!-- ## 🐍 Contribution Flow
 
 <p align="center">
   <img src="https://github.com/sauryakapoor/sauryakapoor/blob/output/github-snake-dark.svg" alt="snake animation" />
-</p>
-
----
+</p> -->
 
 ## 🌐 Connect With Me
 
